@@ -1,0 +1,17 @@
+package com.springBoot_react.fullStackProjectMaven;
+
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+
+
+@SpringBootApplication()
+public class FullStackProjectMavenApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(FullStackProjectMavenApplication.class, args);
+	}
+
+
+}
